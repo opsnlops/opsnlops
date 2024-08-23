@@ -1,5 +1,5 @@
 
-<img align="right" width=200 src="https://raw.githubusercontent.com/opsnlops/opsnlops/main/media/april.png"/>
+<img align="right" width=200 src="https://raw.githubusercontent.com/opsnlops/opsnlops/main/media/aprils-creature-workshop.png"/>
 
 Hello! I'm April.🐰 I'm an engineer, but not the cool kind of engineer that drives trains. I'm the kind of engineer that stops computers from beating each other up.
 
