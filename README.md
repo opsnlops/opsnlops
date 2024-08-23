@@ -1,7 +1,7 @@
 
-<img style="display: block; margin: auto; float: right;" width=200 src="https://raw.githubusercontent.com/opsnlops/opsnlops/main/media/april.png"/>
+<img align="right" width=200 src="https://raw.githubusercontent.com/opsnlops/opsnlops/main/media/april.png"/>
 
-Hello! I'm April. I'm an engineer, but not the cool kind of engineer that drives trains. I'm the kind of engineer that stops computers from beating each other up.
+Hello! I'm April.🐰 I'm an engineer, but not the cool kind of engineer that drives trains. I'm the kind of engineer that stops computers from beating each other up.
 
 My day job is being an Engineering Manager. That means that it's my job to herd highly intelligent cats that really do not wish to be herded.
 
