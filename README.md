@@ -3,7 +3,7 @@
 
 Hello! I'm April.🐰 I'm an engineer, but not the cool kind of engineer that drives trains. I'm the kind of engineer that stops computers from beating each other up.
 
-My day job is being an Engineering Manager. That means that it's my job to herd highly intelligent cats that really do not wish to be herded.
+My day job is being a Staff Engineer at MongoDB.
 
 I'm teaching myself all about animatronics! The most active repos on my GitHub account are the code that I use to power my studio, [April's Creature Workshop](https://creature.engineering)! I have a goal of some day working on animatronics for a living, and my website is my portfolio.
 
